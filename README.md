@@ -1,1 +1,1 @@
-# Youtuber-s-Trading-Algo
+# cBots Using Algos from Youtube videos.
