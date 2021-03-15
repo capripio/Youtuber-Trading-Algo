@@ -3,7 +3,7 @@
 
 Point of this repo is to create trading algos from YouTube videos in cTrader (cBots). So you can run this algos easily.
 
- 1. [This Algo Strategy Has Only 3 rules and 62% Win Rate](https://www.youtube.com/watch?v=_9Bmxylp63Y) - 
+ 1. [This Algo Strategy Has Only 3 rules and 62% Win Rate](https://www.youtube.com/watch?v=_9Bmxylp63Y) - [Seven Day Log.algo](https://github.com/capripio/Youtuber-Trading-Algo/blob/main/Sevend%20Day%20Low/Sevend%20Day%20Low.algo)
 
 **NOTE:** Please use Paper trading. I will not hold any responsibility for you to lose money!
 
